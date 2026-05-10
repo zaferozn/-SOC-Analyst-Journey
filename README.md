@@ -25,6 +25,7 @@ This repository documents my hands-on transition into Security Operations.
 - [Day 1 English Drill](english-drills/day1-english-drill.md)
 - [Day 2 English Drill](english-drills/day2-english-drill.md)
 - [Day 3 English Drill](english-drills/day3-english-drill.md)
+- [Case 001 Defense Drill](english-drills/case-001-defense-drill.md)
 
 ## TryHackMe Notes
 - [TryHackMe Notes](tryhackme-notes/)
