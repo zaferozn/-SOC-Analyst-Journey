@@ -15,9 +15,10 @@ This repository documents my hands-on transition into Security Operations.
 
 ## Lab Notes
 - [Week 1 Day 1 - Foundation Notes](labs/week1-day1-notes.md)
-- [Week 1 Day 2 - SSH Log Observation](labs/week1-day2-ssh-log-observation.md)
+- [Lab 001 - SSH Log Observation](labs/week1-day2-ssh-log-observation.md)
 - [Week 1 Day 3 - Wazuh Environment Validation](labs/week1-day3-wazuh-environment-validation.md)
-- [Week 1 Day 4 - Fresh SSH Authentication Baseline](labs/week1-day4-fresh-ssh-authentication-baseline.md)
+- [Lab 002 - Fresh SSH Authentication Baseline](labs/lab-002-fresh-ssh-authentication-baseline.md)
+- [Lab 003 - Authentication Triage Scenarios](labs/lab-003-authentication-triage-scenarios.md)
 - [Alert vs Raw Log Notes](labs/alert-vs-raw-log-notes.md)
 
 ## English Analyst Writing
